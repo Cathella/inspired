@@ -1,0 +1,76 @@
+* {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.bg-green {
+  background: #a5c6bf;
+}
+
+.bg-pear {
+  background: #fcc6ba;
+}
+
+.bg-black {
+  background: #000;
+}
+
+.small-font {
+  font-size: .9em;
+}
+
+.mid-font {
+  font-size: 3.2em;
+  line-height: 1.7;
+  text-decoration-line: underline;
+  text-decoration-color: tomato;
+}
+
+.bigger-font {
+  font-size: 5.6em;
+}
+
+.intro-bg {
+  background: url("../img/etty-fidele-nF8eo2nX374-unsplash.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.inspired-1-bg {
+  background: url("../img/gina-tigere-kUbqwlKY-qs-unsplash.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: top center;
+}
+
+.inspired-2-bg {
+  background: url("../img/judeus-samson-0UECcInuCR4-unsplash.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: top center;
+}
+
+.inspired-3-bg {
+  background: url("../img/muhammadtaha-ibrahim-ma-aji-Ty2WpsNiVtQ-unsplash.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.inspired-4-bg {
+  background: url("../img/perry-martins-bzqjws3MZAc-unsplash.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: top center;
+}
+
+.inspired-5-bg {
+  background: url("../img/terricks-noah-wJQk6xilGWk-unsplash.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: top center;
+}
